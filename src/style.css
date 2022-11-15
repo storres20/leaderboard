@@ -1,3 +1,48 @@
-h1 {
-  color: blueviolet;
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h2 {
+  margin: 0;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+/* ************ */
+.recentScore {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.recentTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.recentList {
+  border: 2px solid black;
+}
+
+.recentList > p {
+  margin: 0;
+}
+
+.recentList > p:nth-child(even) { background-color: #ccc; }
+.recentList > p:nth-child(odd) { background-color: #fff; }
+
+/* ************ */
+
+.addScore {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 20px;
 }

@@ -209,8 +209,6 @@ Feel free to check the [issues page](https://github.com/storres20/leaderboard/is
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project could help you to improve your coding skills and also, you could use it for your personal web application or projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -219,8 +217,6 @@ If you like this project could help you to improve your coding skills and also, 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank to Microverse for inspiring to build this web application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -228,8 +224,6 @@ I would like to thank to Microverse for inspiring to build this web application
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Do I need ask for permission to clone this repository?]**
 

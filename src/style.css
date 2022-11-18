@@ -3,6 +3,10 @@ body {
   margin-right: 20%;
 }
 
+h1 {
+  color: purple;
+}
+
 h2 {
   margin: 0;
 }
@@ -28,10 +32,12 @@ h2 {
 }
 
 .recentList {
-  border: 2px solid black;
+  border: 1px solid #ccc;
+  box-shadow: 5px 10px 8px #ccc;
 }
 
 .recentList > p {
+  padding: 2px 0 2px 15px;
   margin: 0;
 }
 
@@ -45,4 +51,10 @@ h2 {
   flex-direction: column;
   align-items: flex-end;
   gap: 20px;
+}
+
+.addScore > input {
+  border: 1px solid #ccc;
+  box-shadow: 5px 10px 8px #ccc;
+  border-radius: 10px;
 }
